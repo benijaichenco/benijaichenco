@@ -2,7 +2,7 @@
 
 **`Fullstack Developer | Web Designer`**
 
-I'm a fullstack developer and web designer using code to add some more content to the digital world. All my projects are self made from the ground up, and I aspire to have my own project featured in the Awwwards site.
+I'm a full-stack developer who loves exploring how things work under the hood and crafting digital experiences. Always pushing my projects to the next level.
 
 ---
 
