@@ -1,6 +1,6 @@
 # `<Beni Jaichenco/>`
 
-**`Fullstack Developer | Web Designer`**
+**`Full-Stack Developer`**
 
 I'm a full-stack developer who loves exploring how things work under the hood and crafting digital experiences. Always pushing my projects to the next level.
 
